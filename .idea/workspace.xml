@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73494cb9-3edf-410d-a470-3b78db1d92af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandTracking.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandTracking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
