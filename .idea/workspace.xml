@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73494cb9-3edf-410d-a470-3b78db1d92af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI_Generated_mouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Generated_mouse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ai_generated_mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ai_generated_mouse.py" afterDir="false" />
     </list>
@@ -33,14 +32,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Ai_generated_mouse">
+  <component name="RunManager" selected="Python.HandTrackingModule">
     <configuration name="Ai_generated_mouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_Generated_mouse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="C:\Users\Vardhan Kaashikar\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -104,8 +100,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ai_generated_mouse" />
         <item itemvalue="Python.HandTrackingModule" />
+        <item itemvalue="Python.Ai_generated_mouse" />
         <item itemvalue="Python.HandTracking" />
       </list>
     </recent_temporary>
