@@ -4,5 +4,7 @@ Made Using follwowing libraries:
 1. OpenCV
 2. Numpy
 3. Pandas
+4. MediaPipe
+5. AutoPy
 
 
